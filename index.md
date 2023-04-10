@@ -8,6 +8,8 @@ Since I already had VScode on my system, I'll leave an installation and configur
 
 [Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/windows#:~:text=Download%20the%20Visual%20Studio%20Code,%5CPrograms%5CMicrosoft%20VS%20Code%20.)
 
+On launch, VScode should look similar to this:
+![Image](VScode.png)
 
 * Remotely Connecting
 
