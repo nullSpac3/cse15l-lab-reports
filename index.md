@@ -18,3 +18,6 @@ Before we can proceed to remote connection, we must download and install `git`. 
 To use git Bash on Windows in VScode:
 
   * Launch VScode and press `Ctrl` + `Shift` + `
+  * Click the dropdown arrow and select `Git Bash (Default)`
+
+
