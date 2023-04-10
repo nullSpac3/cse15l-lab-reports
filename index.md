@@ -22,5 +22,5 @@ To use git Bash on Windows in VScode:
   * Launch VScode and press `Ctrl` + `Shift` + `
   * Click the dropdown arrow and select `Git Bash (Default)`
 
-![Image](Terminal.png)
+![Image](Bash Terminal.png)
 
