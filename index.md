@@ -52,7 +52,7 @@ Now that we're all set up, let's try running a few useful commands. Here are som
 * `cd` <path> (Change Directory)
   * Switches current working directory to the given path
 
-Here's an example of how to use some of the aforementioned commands:
+Here's an example of how to use some of the aforementioned commands and what results to expect:
 
 ![Image](commands.png)
 
