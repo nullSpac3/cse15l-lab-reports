@@ -23,7 +23,7 @@ To use git Bash on Windows in VScode:
   * Click the dropdown arrow and select `Git Bash (Default)`
   * Your terminal should now be git bash ready!
 
-![Image](Bash Terminal.png)
+![Image](bash.png)
 
 To connect to the server, type the following command in the terminal: `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
 Since it is your first time connecting to the server, you will be prompted with a message similar to the following:
@@ -43,12 +43,18 @@ To log out of the remote server, any of the following may be used:
 
 Now that we're all set up, let's try running a few useful commands. Here are some key commands you'll be using often:
 
-* `cat` <path1> <path2> (Concatenate)
+* `cat` <path1> <path2> ... (Concatenate)
+  * Prints the contents of one or more files given by the paths
 * `ls` <path> (List)
+  * Lists files and folders of a given path
 * `pwd` (Print Working Directory)
-* `cd` (Change Directory)
+  * Displays the current working directory
+* `cd` <path> (Change Directory)
+  * Switches current working directory to the given path
 
+Here's an example of how to use some of the aforementioned commands:
 
+![Image](commands.png)
 
 
  
