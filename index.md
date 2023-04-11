@@ -21,6 +21,11 @@ To use git Bash on Windows in VScode:
 
   * Launch VScode and press `Ctrl` + `Shift` + `
   * Click the dropdown arrow and select `Git Bash (Default)`
+  * Your terminal should now be git bash ready!
 
 ![Image](Bash Terminal.png)
 
+To connect to the server, type the following command in the terminal: `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
+Since it is your first time connecting to the server, you will be prompted with
+
+ 
